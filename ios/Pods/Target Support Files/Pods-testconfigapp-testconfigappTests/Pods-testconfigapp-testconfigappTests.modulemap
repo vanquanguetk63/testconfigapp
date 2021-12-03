@@ -1,0 +1,6 @@
+module Pods_testconfigapp_testconfigappTests {
+  umbrella header "Pods-testconfigapp-testconfigappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
